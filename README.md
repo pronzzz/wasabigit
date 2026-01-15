@@ -1,12 +1,12 @@
 # 🍱 WasabiGit
 
-> **"The automated sensei that builds my vocabulary and my contribution graph."**
+> **"The automated sensei that builds my Japanese vocabulary."**
 
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/pronzzz/wasabigit/daily.yml?label=Daily%20Drill)
 ![Python Version](https://img.shields.io/badge/python-3.10-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-**WasabiGit** is a GitHub repository maintenance bot that automates daily Japanese vocabulary learning. Unlike other "commit bots" that generate garbage data, WasabiGit builds a useful database of vetted vocabulary while keeping your profile active.
+**WasabiGit** is a GitHub repository maintenance bot that automates daily Japanese vocabulary learning. Unlike other "commit bots" that generate garbage data, WasabiGit builds a useful database of vetted vocabulary.
 
 ---
 
