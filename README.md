@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 1
+**Total Words Archived:** 2
 
 ## 📅 Word of the Day: 2026-01-15
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **姉** | あね | older sister, elder sister |
+| **先生** | せんせい | teacher, instructor, master |
 
 <!-- VOCAB_END -->
 
