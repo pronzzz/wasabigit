@@ -14,14 +14,16 @@
 *Updated automatically at midnight UTC.*
 
 <!-- VOCAB_START -->
-**Current Status:** Waiting for first run... 🇯🇵
-**Total Words Archived:** 0
 
-## 📅 Word of the Day: N/A
+**Current Status:** Learning for Japan 2027 🇯🇵
+**Total Words Archived:** 1
+
+## 📅 Word of the Day: 2026-01-15
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **待** | ま.つ | Wait (Example) |
+| **姉** | あね | older sister, elder sister |
+
 <!-- VOCAB_END -->
 
 ---
