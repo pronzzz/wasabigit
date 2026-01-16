@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 2
+**Total Words Archived:** 3
 
-## 📅 Word of the Day: 2026-01-15
+## 📅 Word of the Day: 2026-01-16
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **先生** | せんせい | teacher, instructor, master |
+| **車** | くるま | car, automobile, vehicle |
 
 <!-- VOCAB_END -->
 
