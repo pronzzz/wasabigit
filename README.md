@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 3
+**Total Words Archived:** 4
 
-## 📅 Word of the Day: 2026-01-16
+## 📅 Word of the Day: 2026-01-17
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **車** | くるま | car, automobile, vehicle |
+| **月** | つき | Moon |
 
 <!-- VOCAB_END -->
 
