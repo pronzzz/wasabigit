@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 5
+**Total Words Archived:** 6
 
-## 📅 Word of the Day: 2026-01-18
+## 📅 Word of the Day: 2026-01-19
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **駅** | えき | railway station, train station |
+| **雨** | あめ | rain |
 
 <!-- VOCAB_END -->
 
