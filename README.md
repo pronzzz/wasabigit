@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 7
+**Total Words Archived:** 8
 
-## 📅 Word of the Day: 2026-01-20
+## 📅 Word of the Day: 2026-01-21
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **兄** | あに | older brother, elder brother |
+| **雪** | ゆき | snow, snowfall |
 
 <!-- VOCAB_END -->
 
