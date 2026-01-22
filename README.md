@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 8
+**Total Words Archived:** 9
 
-## 📅 Word of the Day: 2026-01-21
+## 📅 Word of the Day: 2026-01-22
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **雪** | ゆき | snow, snowfall |
+| **彼** | かれ | he, him |
 
 <!-- VOCAB_END -->
 
