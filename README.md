@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 10
+**Total Words Archived:** 11
 
-## 📅 Word of the Day: 2026-01-23
+## 📅 Word of the Day: 2026-01-24
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **手** | て | hand, arm |
+| **日** | にち | Sunday |
 
 <!-- VOCAB_END -->
 
