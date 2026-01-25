@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 11
+**Total Words Archived:** 12
 
-## 📅 Word of the Day: 2026-01-24
+## 📅 Word of the Day: 2026-01-25
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **日** | にち | Sunday |
+| **女** | おんな | woman, female |
 
 <!-- VOCAB_END -->
 
