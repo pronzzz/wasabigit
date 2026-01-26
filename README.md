@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 12
+**Total Words Archived:** 13
 
-## 📅 Word of the Day: 2026-01-25
+## 📅 Word of the Day: 2026-01-26
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **女** | おんな | woman, female |
+| **水** | みず | water (esp. cool or cold) |
 
 <!-- VOCAB_END -->
 
