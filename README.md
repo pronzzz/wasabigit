@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 13
+**Total Words Archived:** 14
 
-## 📅 Word of the Day: 2026-01-26
+## 📅 Word of the Day: 2026-01-27
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **水** | みず | water (esp. cool or cold) |
+| **黄金** | おうごん | gold (Au) |
 
 <!-- VOCAB_END -->
 
