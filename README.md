@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 14
+**Total Words Archived:** 15
 
-## 📅 Word of the Day: 2026-01-27
+## 📅 Word of the Day: 2026-01-28
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **黄金** | おうごん | gold (Au) |
+| **本** | ほん | book, volume, script |
 
 <!-- VOCAB_END -->
 
