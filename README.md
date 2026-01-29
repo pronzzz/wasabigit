@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 15
+**Total Words Archived:** 16
 
-## 📅 Word of the Day: 2026-01-28
+## 📅 Word of the Day: 2026-01-29
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **本** | ほん | book, volume, script |
+| **犬** | いぬ | dog (Canis (lupus) familiaris), canine |
 
 <!-- VOCAB_END -->
 
