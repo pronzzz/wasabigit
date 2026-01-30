@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 16
+**Total Words Archived:** 17
 
-## 📅 Word of the Day: 2026-01-29
+## 📅 Word of the Day: 2026-01-30
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **犬** | いぬ | dog (Canis (lupus) familiaris), canine |
+| **寝る** | ねる | to sleep (lying down) |
 
 <!-- VOCAB_END -->
 
