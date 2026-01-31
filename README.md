@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 17
+**Total Words Archived:** 18
 
-## 📅 Word of the Day: 2026-01-30
+## 📅 Word of the Day: 2026-01-31
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **寝る** | ねる | to sleep (lying down) |
+| **店** | みせ | store, shop, establishment, restaurant |
 
 <!-- VOCAB_END -->
 
