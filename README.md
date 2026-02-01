@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 18
+**Total Words Archived:** 19
 
-## 📅 Word of the Day: 2026-01-31
+## 📅 Word of the Day: 2026-02-01
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **店** | みせ | store, shop, establishment, restaurant |
+| **口** | くち | mouth |
 
 <!-- VOCAB_END -->
 
