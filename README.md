@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 20
+**Total Words Archived:** 21
 
-## 📅 Word of the Day: 2026-02-02
+## 📅 Word of the Day: 2026-02-03
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **子** | こ | child, kid, teenager, youngster, young (non-adult) person |
+| **何** | なに | what |
 
 <!-- VOCAB_END -->
 
