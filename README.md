@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 21
+**Total Words Archived:** 22
 
-## 📅 Word of the Day: 2026-02-03
+## 📅 Word of the Day: 2026-02-04
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **何** | なに | what |
+| **妹** | いもうと | younger sister |
 
 <!-- VOCAB_END -->
 
