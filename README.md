@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 23
+**Total Words Archived:** 24
 
-## 📅 Word of the Day: 2026-02-05
+## 📅 Word of the Day: 2026-02-06
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **男** | おとこ | man, male |
+| **耳** | みみ | ear |
 
 <!-- VOCAB_END -->
 
