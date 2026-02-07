@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 24
+**Total Words Archived:** 25
 
-## 📅 Word of the Day: 2026-02-06
+## 📅 Word of the Day: 2026-02-07
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **耳** | みみ | ear |
+| **分** | ぶん | part, portion, share |
 
 <!-- VOCAB_END -->
 
