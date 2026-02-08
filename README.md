@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 25
+**Total Words Archived:** 26
 
-## 📅 Word of the Day: 2026-02-07
+## 📅 Word of the Day: 2026-02-08
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **分** | ぶん | part, portion, share |
+| **猫** | ねこ | cat (esp. the domestic cat, Felis catus), feline |
 
 <!-- VOCAB_END -->
 
