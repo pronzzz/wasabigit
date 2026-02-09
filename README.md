@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 26
+**Total Words Archived:** 27
 
-## 📅 Word of the Day: 2026-02-08
+## 📅 Word of the Day: 2026-02-09
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **猫** | ねこ | cat (esp. the domestic cat, Felis catus), feline |
+| **川** | かわ | river, stream |
 
 <!-- VOCAB_END -->
 
