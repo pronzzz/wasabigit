@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 27
+**Total Words Archived:** 28
 
-## 📅 Word of the Day: 2026-02-09
+## 📅 Word of the Day: 2026-02-10
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **川** | かわ | river, stream |
+| **父** | ちち | father |
 
 <!-- VOCAB_END -->
 
