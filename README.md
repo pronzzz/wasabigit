@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 28
+**Total Words Archived:** 29
 
-## 📅 Word of the Day: 2026-02-10
+## 📅 Word of the Day: 2026-02-11
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **父** | ちち | father |
+| **道** | みち | road, path, street, lane, passage |
 
 <!-- VOCAB_END -->
 
