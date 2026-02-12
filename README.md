@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 29
+**Total Words Archived:** 30
 
-## 📅 Word of the Day: 2026-02-11
+## 📅 Word of the Day: 2026-02-12
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **道** | みち | road, path, street, lane, passage |
+| **学生** | がくせい | student (esp. a university student) |
 
 <!-- VOCAB_END -->
 
