@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 30
+**Total Words Archived:** 31
 
-## 📅 Word of the Day: 2026-02-12
+## 📅 Word of the Day: 2026-02-13
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **学生** | がくせい | student (esp. a university student) |
+| **空** | そら | sky, the air, the heavens |
 
 <!-- VOCAB_END -->
 
