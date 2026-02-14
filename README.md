@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 31
+**Total Words Archived:** 32
 
-## 📅 Word of the Day: 2026-02-13
+## 📅 Word of the Day: 2026-02-14
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **空** | そら | sky, the air, the heavens |
+| **弟** | おとうと | younger brother, little brother, kid brother |
 
 <!-- VOCAB_END -->
 
