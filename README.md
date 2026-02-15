@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 32
+**Total Words Archived:** 33
 
-## 📅 Word of the Day: 2026-02-14
+## 📅 Word of the Day: 2026-02-15
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **弟** | おとうと | younger brother, little brother, kid brother |
+| **足** | あし | foot, paw, arm (of an octopus, squid, etc.) |
 
 <!-- VOCAB_END -->
 
