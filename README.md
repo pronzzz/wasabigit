@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 33
+**Total Words Archived:** 34
 
-## 📅 Word of the Day: 2026-02-15
+## 📅 Word of the Day: 2026-02-16
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **足** | あし | foot, paw, arm (of an octopus, squid, etc.) |
+| **学校** | がっこう | school |
 
 <!-- VOCAB_END -->
 
