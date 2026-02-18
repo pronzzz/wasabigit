@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 35
+**Total Words Archived:** 36
 
-## 📅 Word of the Day: 2026-02-17
+## 📅 Word of the Day: 2026-02-18
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **時** | とき | time, hour, moment |
+| **山** | やま | mountain, hill |
 
 <!-- VOCAB_END -->
 
