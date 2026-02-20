@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 37
+**Total Words Archived:** 38
 
-## 📅 Word of the Day: 2026-02-19
+## 📅 Word of the Day: 2026-02-20
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **今** | いま | now, the present time, just now, soon, immediately |
+| **家** | いえ | house, residence, dwelling, home |
 
 <!-- VOCAB_END -->
 
