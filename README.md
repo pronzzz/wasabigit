@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 40
+**Total Words Archived:** 41
 
-## 📅 Word of the Day: 2026-02-22
+## 📅 Word of the Day: 2026-02-23
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **土** | つち | earth, soil, dirt, clay, mud |
+| **目** | め | eye, eyeball |
 
 <!-- VOCAB_END -->
 
