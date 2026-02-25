@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 42
+**Total Words Archived:** 43
 
-## 📅 Word of the Day: 2026-02-24
+## 📅 Word of the Day: 2026-02-25
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **人** | ひと | person, someone, somebody |
+| **誰** | だれ | who |
 
 <!-- VOCAB_END -->
 
