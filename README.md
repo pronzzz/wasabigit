@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 43
+**Total Words Archived:** 44
 
-## 📅 Word of the Day: 2026-02-25
+## 📅 Word of the Day: 2026-02-26
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **誰** | だれ | who |
+| **木** | き | tree, shrub, bush |
 
 <!-- VOCAB_END -->
 
