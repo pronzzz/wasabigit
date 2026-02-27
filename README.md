@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 44
+**Total Words Archived:** 45
 
-## 📅 Word of the Day: 2026-02-26
+## 📅 Word of the Day: 2026-02-27
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **木** | き | tree, shrub, bush |
+| **部屋** | へや | room, chamber |
 
 <!-- VOCAB_END -->
 
