@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 45
+**Total Words Archived:** 46
 
-## 📅 Word of the Day: 2026-02-27
+## 📅 Word of the Day: 2026-02-28
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **部屋** | へや | room, chamber |
+| **火** | ひ | fire, flame, blaze |
 
 <!-- VOCAB_END -->
 
