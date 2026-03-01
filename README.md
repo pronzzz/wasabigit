@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 46
+**Total Words Archived:** 47
 
-## 📅 Word of the Day: 2026-02-28
+## 📅 Word of the Day: 2026-03-01
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **火** | ひ | fire, flame, blaze |
+| **電車** | でんしゃ | train, electric train |
 
 <!-- VOCAB_END -->
 
