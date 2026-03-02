@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 47
+**Total Words Archived:** 48
 
-## 📅 Word of the Day: 2026-03-01
+## 📅 Word of the Day: 2026-03-02
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **電車** | でんしゃ | train, electric train |
+| **食べる** | たべる | to eat |
 
 <!-- VOCAB_END -->
 
