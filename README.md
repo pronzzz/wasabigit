@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 48
+**Total Words Archived:** 49
 
-## 📅 Word of the Day: 2026-03-02
+## 📅 Word of the Day: 2026-03-04
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **食べる** | たべる | to eat |
+| **彼女** | かのじょ | she, her |
 
 <!-- VOCAB_END -->
 
