@@ -16,13 +16,13 @@
 <!-- VOCAB_START -->
 
 **Current Status:** Learning for Japan 2027 🇯🇵
-**Total Words Archived:** 49
+**Total Words Archived:** 50
 
-## 📅 Word of the Day: 2026-03-04
+## 📅 Word of the Day: 2026-03-06
 
 | Kanji | Reading | Meaning |
 |-------|---------|---------|
-| **彼女** | かのじょ | she, her |
+| **母** | はは | mother |
 
 <!-- VOCAB_END -->
 
